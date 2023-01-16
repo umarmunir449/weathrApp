@@ -1,0 +1,63 @@
+
+.continer main{
+
+
+margin-left: 90px;
+ 
+  
+}
+
+.continer h1{
+    font-size: 20px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    font-weight: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: dotted;
+}
+
+.continer span{
+    font-size: 20px;
+    font-weight: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: dotted;
+    font-style: uppercase;
+}
+.card{
+    box-shadow: 0px 0px 23px 7px rgba(153, 153, 153, 1);
+    color: rgb(7, 7, 48);
+    height: 200px;
+    width: 250px;
+
+}
+.card:hover{
+    background-color: rgb(194, 171, 171);
+    color: white;
+    transform: 0.5s ease-in-out;
+    }
+.card-body ul{
+    color: rgb(219, 3, 32);   
+}
+
+.navbar{
+   height: 60px; 
+   background-color: rgb(226, 226, 235);
+   width: auto ;
+   
+}
+form{
+
+    margin-left: 600px;
+}
+th{
+    font-size: 10px;
+}
+td{
+    font-size: 10px;
+}
+table{
+    height: 200px;
+    background-color: rgb(208, 208, 221);
+    
+}
+
